@@ -17,3 +17,7 @@ then showed on user's bookmarklist page. Users can decide for every new bookmark
 ## process
 
 I intend to use simple development process of MoSCoW, to keep on track of releasing the first version.
+
+### v. 0.1
+This is going to be very rough draft of the system, with almost no design decisions. You can think of it as a proof of concept.
+(Imagine form with a few fields and a button... and then a list of your bookmarks)
